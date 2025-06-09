@@ -1,9 +1,5 @@
 # -SQL-PROJECT-Online-Food-Delivery-Platform-Analysis
 
-Dataset Concept: Similar to Zomato/Swiggy/UberEats 
-
-Ideal for: Showcasing SQL skills in business analytics, user behavior, sales insights
-  
 This SQL project simulates a food delivery company's database and uses SQL to uncover insights about customer behavior, restaurant performance, cuisine preferences, and sales trends. The dataset structure mirrors platforms like Zomato, Swiggy, or UberEats.
 
 ---
