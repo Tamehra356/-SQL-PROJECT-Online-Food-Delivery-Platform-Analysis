@@ -1,0 +1,22 @@
+                                                      SQL Project: Online Food Delivery Platform Analysis
+                                                            Business Questions by Difficulty Level
+Easy (Beginner Level)
+1. Which city has the most number of customers?
+2. What are the top 5 most ordered dishes?
+3. Who is the most frequent customer?
+4. What are the top 3 restaurants by number of orders?
+5. What is the average rating per cuisine?
+
+Moderate (Intermediate Level)
+1. Find customers who ordered more than 2 times in the same week.
+2. Which cities have the highest average order value?
+3. List dishes priced higher than the average price in their cuisine.
+4. Which restaurant serves the most expensive dish?
+5. Find customers who only order vegetarian dishes.
+
+Advanced (Expert Level)
+1. For each customer, find their most ordered cuisine.
+2. Identify restaurants with highest repeat customer rate.
+3. Top 3 customers by spend in each city.
+4. Analyze peak ordering hours (weekday vs weekend).
+5. Average delivery time per restaurant ranked from fastest to slowest
